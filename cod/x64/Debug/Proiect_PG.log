@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\Users\ioanf\Desktop\Facultate An 2 Sem 1\PG\Lab\Proiect_PG\Proiect_PG\main.cpp(56,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\ioanf\Desktop\Facultate An 2 Sem 1\PG\Lab\Proiect_PG\Proiect_PG\main.cpp(120,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ioanf\Desktop\Facultate An 2 Sem 1\PG\Lab\Proiect_PG\Proiect_PG\main.cpp(121,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+libglew32d.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'libglew32d.lib(glew.obj)' or at ''; linking object as if no debug info
+  Proiect_PG.vcxproj -> C:\Users\ioanf\Desktop\Facultate An 2 Sem 1\PG\Lab\Proiect_PG\x64\Debug\Proiect_PG.exe
